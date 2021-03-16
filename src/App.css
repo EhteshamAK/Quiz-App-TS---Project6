@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+}
+
+.app{
+  display: flex;
+  background-repeat: no-repeat;
+}
+.app__image{
+  width: 100vw;
+  height: 100vh;
+}
